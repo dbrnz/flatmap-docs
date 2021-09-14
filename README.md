@@ -1,2 +1,0 @@
-# flatmap-docs
-Flatmap documentation

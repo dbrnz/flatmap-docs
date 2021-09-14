@@ -1,0 +1,4 @@
+flatmap-docs
+============
+
+Flatmap documentation
