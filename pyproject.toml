@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "docs"
+version = "0.1.0"
+description = "Flatmap documentation"
+authors = ["David Brooks <d.brooks@auckland.ac.nz>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+sphinx = "4.0.3"
+sphinx-rtd-theme = "*"
+sphinx-argparse = "*"
+
+[tool.poetry.scripts]
+
+[build-system]
+# See https://github.com/chrahunt/rtd-poetry/issues/3
+requires = ["poetry_core>=1.0.0", "rtd-poetry @ https://github.com/dbrnz/rtd-poetry/archive/refs/tags/v0.1.2.tar.gz"]
+build-backend = "rtd_poetry"
