@@ -2,8 +2,8 @@ Flatmap datasets
 ================
 
 * Published on Pennsieve
-* General Pennsieve dataset structure is documented at https://docs.pennsieve.io/docs/structure-of-published-datasets
-* See here for scaffold dataset structure: https://docs.google.com/document/d/1BDGVTSRAWSCOeVhOWkWorhUnxLzvafXeUHgO4V37bg8/edit#heading=h.uh1i7n0dt7m
+* General Pennsieve dataset structure is documented `here <https://docs.pennsieve.io/docs/structure-of-published-datasets>`_.
+* As an example, see `here <https://docs.google.com/document/d/1BDGVTSRAWSCOeVhOWkWorhUnxLzvafXeUHgO4V37bg8/edit#heading=h.uh1i7n0dt7m>`_ for scaffold dataset structure.
 * Flatmap specific structure:
 
     - Source:
