@@ -10,6 +10,7 @@ Flatmap datasets
 
         + Manifest.json
         + Local files referenced from manifest
+        + Connectivity and other information retrieved from SciCrunch at map generation time.
 
     - Derived:
 
