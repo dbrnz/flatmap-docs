@@ -3,7 +3,9 @@ Flatmap datasets
 
 * Published on Pennsieve.
 * General Pennsieve dataset structure is documented `here <https://docs.pennsieve.io/docs/structure-of-published-datasets>`_.
+* Folder structure is documented `here <https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1>`_.
 * As an example, see `here <https://docs.google.com/document/d/1BDGVTSRAWSCOeVhOWkWorhUnxLzvafXeUHgO4V37bg8/edit#heading=h.uh1i7n0dt7m>`_ for scaffold dataset structure.
+* `Dataset template <https://github.com/SciCrunch/sparc-curation/tree/master/resources/DatasetTemplate>`_ on Github.
 * Flatmap specific structure:
 
     - Source:
